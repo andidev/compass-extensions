@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>jQuery++ Example</title>
+
+	<!-- jQuery -->
+	<script type="text/javascript" src="../javascripts/jquery/jquery.js"></script>
+
+	<!-- jQuery++ -->
+	<script type="text/javascript" src="../javascripts/jquerypp/jquerypp.js"></script>
+
+	<!-- JavaSript -->
+	<script type="text/javascript">
+		$(function() {
+			$('form').formParams({
+				first : 'Andy',
+				last : 'The Candy Man'
+			});
+		});
+	</script>
+</head>
+<body>
+	<h2>jQuery++ Example</h2>
+	<div>
+		<form>
+			<input type="text" name="first" value="" />
+			<input type="text" name="last" value="" />
+			<input type="text" name="phone[mobile]" value="" />
+			<input type="text" name="phone[home]" value="" />
+		</form>
+	</div>
+</body>
+</html>
