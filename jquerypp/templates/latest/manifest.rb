@@ -1,4 +1,4 @@
-description "jQuery 1.0b2 (latest)"
+description "jQuery++ 1.0b2 (latest)"
 
 discover :stylesheets
 discover :images

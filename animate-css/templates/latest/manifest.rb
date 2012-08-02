@@ -1,4 +1,4 @@
-description "Animate Css (latest)"
+description "Animate Css x.x.x (latest)"
 
 discover :stylesheets
 discover :css
