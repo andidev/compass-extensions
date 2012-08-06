@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Happy.js Example</title>
+
+	<!-- jQuery -->
+	<script type="text/javascript" src="../javascripts/zepto.js"></script>
+
+	<!-- Happy.js -->
+	<script type="text/javascript" src="../javascripts/happy-js.js"></script>
+
+	<!-- Css -->
+	<style type="text/css">
+        body {
+            font-family: Helvetica;
+        }
+        input {
+            display: block;
+        }
+        .unhappyMessage {
+            display:  block;
+        }
+	</style>
+
+	<!-- JavaSript -->
+	<script type="text/javascript">
+	$(document).ready(function () {
+		$('#awesomeForm').isHappy({
+			fields: {
+				// reference the field you're talking about, probably by `id`
+				// but you could certainly do $('[name=name]') as well.
+				'#yourName': {
+					required: true,
+					message: 'Might we inquire your name'
+				},
+				'#email': {
+					required: true,
+					message: 'How are we to reach you sans email??',
+					test: happy.email // this can be *any* function that returns true or false
+				}
+			}
+  		});
+	});
+	</script>
+</head>
+<body>
+	<h2>Happy.js Example</h2>
+    <form id="awesomeForm" action="/lights/camera" method="post">
+      <input id="yourName" type="text" name="name" />
+      <input id="email" type="text" name="email" class="" />
+      <input type="submit" value="go" />
+    </form>
+</body>
+</html>
