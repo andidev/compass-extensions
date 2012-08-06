@@ -20,6 +20,17 @@
     }
 }
 
+@-ms-keyframes flipOutX {
+    0% {
+        -ms-transform: perspective(400px) rotateX(0deg);
+        opacity: 1;
+    }
+	100% {
+        -ms-transform: perspective(400px) rotateX(90deg);
+        opacity: 0;
+    }
+}
+
 @-o-keyframes flipOutX {
     0% {
         -o-transform: perspective(400px) rotateX(0deg);
@@ -47,6 +58,8 @@
 	-webkit-backface-visibility: visible !important;
 	-moz-animation-name: flipOutX;
 	-moz-backface-visibility: visible !important;
+	-ms-animation-name: flipOutX;
+	-ms-backface-visibility: visible !important;
 	-o-animation-name: flipOutX;
 	-o-backface-visibility: visible !important;
 	animation-name: flipOutX;
