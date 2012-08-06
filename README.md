@@ -8,55 +8,59 @@ Install Extensions
 
 ### Plugins
 
-- compass install animate-css/latest;
-- compass install animate-sass/latest;
-- compass install bootstrap/latest;
-- compass install bootstrap-data-tables/latest;
-- compass install bootstrap-font-awesome/latest;
-- compass install cordova-android/latest;
-- compass install cordova-ios/latest;
-- compass install data-tables/latest;
-- compass install font-awesome/latest;
-- compass install jqtouch/latest;
-- compass install jquery/latest;
-- compass install jquery-mobile/latest;
-- compass install jquery-ui/latest;
-- compass install jquery-validation/latest;
-- compass install jquerypp/latest;
-- compass install normalize-css/latest;
-- compass install omg-text/latest;
-- compass install prettify/latest;
-- compass install skrollr/latest;
-- compass install underscore-js/latest;
-- compass install zclip/latest;
-- compass install zepto/latest;
-- compass install zero-clipboard/latest;
+- compass install animate-css;
+- compass install animate-sass;
+- compass install bootstrap;
+- compass install bootstrap-data-tables;
+- compass install bootstrap-font-awesome;
+- compass install cordova-android;
+- compass install cordova-ios;
+- compass install data-tables;
+- compass install font-awesome;
+- compass install happy-js;
+- compass install jqtouch;
+- compass install jquery;
+- compass install jquery-mobile;
+- compass install jquery-ui;
+- compass install jquery-validation;
+- compass install jquerypp;
+- compass install normalize-css;
+- compass install omg-text;
+- compass install prettify;
+- compass install skrollr;
+- compass install underscore-js;
+- compass install zclip;
+- compass install zepto;
+- compass install zero-clipboard;
 
 ### All Plugins
 
-compass install animate-css/latest;
-compass install animate-sass/latest;
-compass install bootstrap/latest;
-compass install bootstrap-data-tables/latest;
-compass install bootstrap-font-awesome/latest;
-compass install cordova-android/latest;
-compass install cordova-ios/latest;
-compass install data-tables/latest;
-compass install font-awesome/latest;
-compass install jqtouch/latest;
-compass install jquery/latest;
-compass install jquery-mobile/latest;
-compass install jquery-ui/latest;
-compass install jquery-validation/latest;
-compass install jquerypp/latest;
-compass install normalize-css/latest;
-compass install omg-text/latest;
-compass install prettify/latest;
-compass install skrollr/latest;
-compass install underscore-js/latest;
-compass install zclip/latest;
-compass install zepto/latest;
-compass install zero-clipboard/latest;
+compass install animate-css;
+compass install animate-sass;
+compass install bootstrap;
+compass install bootstrap-data-tables;
+compass install bootstrap-font-awesome;
+compass install cordova-android;
+compass install cordova-ios;
+compass install data-tables;
+compass install font-awesome;
+compass install happy-js;
+compass install jqtouch;
+compass install jquery;
+compass install jquery-mobile;
+compass install jquery-ui;
+compass install jquery-validation;
+compass install jquerypp;
+compass install normalize-css;
+compass install omg-text;
+compass install prettify;
+compass install skrollr;
+compass install underscore-js;
+compass install zclip;
+compass install zepto;
+compass install zero-clipboard;
+
+compass install animate-css; compass install animate-sass; compass install bootstrap; compass install bootstrap-data-tables; compass install bootstrap-font-awesome; compass install cordova-android; compass install cordova-ios; compass install data-tables; compass install font-awesome; compass install happy-js; compass install jqtouch; compass install jquery; compass install jquery-mobile; compass install jquery-ui; compass install jquery-validation; compass install jquerypp; compass install normalize-css; compass install omg-text; compass install prettify; compass install skrollr; compass install underscore-js; compass install zclip; compass install zepto; compass install zero-clipboard;
 
 Extensions to Add
 -------

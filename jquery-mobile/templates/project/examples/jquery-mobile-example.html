@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>jQuery Mobile Example</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- jQuery -->
+	<script type="text/javascript" src="../javascripts/jquery.js"></script>
+
+	<!-- jQuery Mobile -->
+	<link rel="stylesheet" type="text/css" href="../stylesheets/jquery-mobile.css" />
+	<script type="text/javascript" src="../javascripts/jquery-mobile.js"></script>
+</head>
+<body>
+	<div data-role="page">
+
+		<div data-role="header">
+			<a href="index.html" data-icon="delete">Cancel</a>
+			<h1>Edit Contact</h1>
+			<a href="index.html" data-icon="check" data-theme="b">Save</a>
+		</div>
+
+		<div data-role="content">
+			<ul data-role="listview" data-inset="true" data-filter="true">
+				<li><a href="#">Acura</a></li>
+				<li><a href="#">Audi</a></li>
+				<li><a href="#">BMW</a></li>
+				<li><a href="#">Cadillac</a></li>
+				<li><a href="#">Ferrari</a></li>
+			</ul>
+		</div>
+
+		<div data-role="footer" class="ui-bar">
+			<a href="index.html" data-role="button" data-icon="plus">Add</a>
+			<a href="index.html" data-role="button" data-icon="arrow-u">Up</a>
+			<a href="index.html" data-role="button" data-icon="arrow-d">Down</a>
+		</div>
+
+	</div>
+</body>
+</html>

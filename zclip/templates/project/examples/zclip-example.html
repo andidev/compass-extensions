@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>zClip Example</title>
+
+	<!-- jQuery -->
+	<script type="text/javascript" src="../javascripts/jquery.js"></script>
+
+	<!-- zClip -->
+	<script type="text/javascript" src="../javascripts/zclip.js"></script>
+
+	<style type="text/css">
+		.try #text-to-copy {border:4px solid #666; margin-top:0;}
+		.try #copy-button {width:110px; height:50px; background-color: black; display:block; overflow:hidden; color:#fff; text-decoration:none; text-indent:27px; line-height:43px; vertical-align:middle; margin:0 auto;}
+		.try #copy-button:hover, .try #copy-button.hover {color:#CCC;}
+		.try #copy-button:active, .try #copy-button.active {color:#333;}
+	</style>
+
+	<!-- JavaSript -->
+	<script type="text/javascript">
+		$(function() {
+			$("#copy-button").zclip({
+			    path: "../flash/zero-clipboard/zero-clipboard.swf",
+			    copy: function(){
+			    return $(this).prev().val();
+			    }
+			});
+		});
+	</script>
+</head>
+<body>
+	<h2>zClip Example</h2>
+	<div class="try">
+		<textarea id="text-to-copy" onfocus="if(this.value=='Type your text here.')this.value='';" onblur="if(this.value=='')this.value='Type your text here.';">Type your text here.</textarea>
+		<a id="copy-button" href="#">Copy</a>
+		<textarea onfocus="this.value='';">Paste text here to verify.</textarea>
+	</div>
+</body>
+</html>
