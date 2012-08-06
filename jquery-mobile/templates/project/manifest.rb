@@ -18,7 +18,7 @@ Compass Dependencies
 jQuery
 
 Install With Dependencies
-compass install jquery/latest; compass install jquery-mobile/latest;
+compass install jquery; compass install jquery-mobile;
 
 """
 
@@ -33,6 +33,6 @@ Compass Dependencies
 jQuery
 
 Install Dependencies
-compass install jquery/latest;
+compass install jquery;
 
 """

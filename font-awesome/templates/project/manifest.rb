@@ -21,7 +21,7 @@ Compass Dependencies
 none
 
 Install With Dependencies
-compass install font-awesome/latest;
+compass install font-awesome;
 
 """
 

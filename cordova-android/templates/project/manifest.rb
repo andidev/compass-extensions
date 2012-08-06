@@ -18,7 +18,7 @@ Compass Dependencies
 none
 
 Install With Dependencies
-compass install cordova-android/latest;
+compass install cordova-android;
 
 """
 

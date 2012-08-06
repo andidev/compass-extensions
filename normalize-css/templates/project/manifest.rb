@@ -18,7 +18,7 @@ Compass Dependencies
 none
 
 Install With Dependencies
-compass install normalize-css/latest;
+compass install normalize-css;
 
 """
 

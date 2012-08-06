@@ -18,7 +18,7 @@ Compass Dependencies
 none
 
 Install With Dependencies
-compass install underscore-js/latest;
+compass install underscore-js;
 
 """
 

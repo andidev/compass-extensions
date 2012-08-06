@@ -19,7 +19,7 @@ Compass Dependencies
 none
 
 Install With Dependencies
-compass install omg-text/latest;
+compass install omg-text;
 
 """
 

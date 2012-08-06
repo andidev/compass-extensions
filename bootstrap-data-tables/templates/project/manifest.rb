@@ -18,7 +18,7 @@ Compass Dependencies
 jQuery, Bootstrap, Data Tables
 
 Install With Dependencies
-compass install jquery/latest; compass install bootstrap/latest; compass install data-tables/latest; compass install bootstrap-data-tables/latest;
+compass install jquery; compass install bootstrap; compass install data-tables; compass install bootstrap-data-tables;
 
 """
 
@@ -33,6 +33,6 @@ Compass Dependencies
 jQuery, Data Tables
 
 Install Dependencies
-compass install jquery/latest; compass install bootstrap/latest; compass install data-tables/latest;
+compass install jquery; compass install bootstrap; compass install data-tables;
 
 """

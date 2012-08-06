@@ -18,7 +18,7 @@ Compass Dependencies
 none
 
 Install With Dependencies
-compass install zero-clipboard/latest;
+compass install zero-clipboard;
 
 """
 

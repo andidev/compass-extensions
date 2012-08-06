@@ -19,7 +19,7 @@ Compass Dependencies
 none
 
 Install With Dependencies
-compass install animate-css/latest;
+compass install animate-css;
 
 """
 

@@ -18,7 +18,7 @@ Compass Dependencies
 jQuery
 
 Install With Dependencies
-compass install jquery/latest; compass install zero-clipboard/latest; compass install zclip/latest;
+compass install jquery; compass install zero-clipboard; compass install zclip;
 
 """
 
@@ -33,6 +33,6 @@ Compass Dependencies
 jQuery
 
 Install Dependencies
-compass install jquery/latest; compass install zero-clipboard/latest;
+compass install jquery; compass install zero-clipboard;
 
 """

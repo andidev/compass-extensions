@@ -19,7 +19,7 @@ Compass Dependencies
 none
 
 Install With Dependencies
-compass install animate-sass/latest;
+compass install animate-sass;
 
 """
 

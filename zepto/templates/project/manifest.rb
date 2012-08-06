@@ -18,7 +18,7 @@ Compass Dependencies
 none
 
 Install With Dependencies
-compass install zepto/latest;
+compass install zepto;
 
 """
 

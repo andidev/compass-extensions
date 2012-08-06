@@ -18,7 +18,7 @@ Compass Dependencies
 Zepto or jQuery
 
 Install With Dependencies
-compass install zepto/latest; compass install happy-js/latest;
+compass install zepto; compass install happy-js;
 
 """
 
@@ -33,6 +33,6 @@ Compass Dependencies
 Zepto or jQuery
 
 Install Dependencies
-compass install zepto/latest;
+compass install zepto;
 
 """

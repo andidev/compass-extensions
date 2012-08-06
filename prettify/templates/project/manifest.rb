@@ -18,7 +18,7 @@ Compass Dependencies
 none
 
 Install With Dependencies
-compass install prettify/latest;
+compass install prettify;
 
 """
 
