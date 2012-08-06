@@ -30,7 +30,7 @@ Documetation
 	http://www.jqtouch.com/preview/demos/main/#home
 
 Compass Dependencies
-jQuery
+Zepto or jQuery
 
 Install Dependencies
 compass install zepto/latest;
