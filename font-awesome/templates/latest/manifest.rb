@@ -1,7 +1,7 @@
 description "Font Awesome 2.0 (latest)"
 
 font "font-awesome/font-awesome.svg"
-file "source/font-awesome-source.zip"
+file "source/font-awesome-2.0.zip"
 
 discover :stylesheets
 discover :images
