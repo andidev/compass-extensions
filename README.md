@@ -6,25 +6,33 @@ Compass extensions for javascript/css plugins
 Install All Plugins
 ==================
 
-compass install animate-css; compass install bootstrap; compass install bootstrap-data-tables; compass install bootstrap-font-awesome; compass install data-tables; compass install font-awesome; compass install jquery; compass install jquery-mobile; compass install jquerypp; compass install prettify; compass install skrollr; compass install underscore-js; compass install zepto;
-
-compass install animate-css;
-compass install bootstrap;
-compass install bootstrap-data-tables;
-compass install bootstrap-font-awesome;
-compass install data-tables;
-compass install font-awesome;
-compass install jquery;
-compass install jquery-mobile;
-compass install jquerypp;
-compass install prettify;
-compass install skrollr;
-compass install underscore-js;
-compass install zepto;
+compass install animate-css/latest;
+compass install animate-sass/latest;
+compass install bootstrap/latest;
+compass install bootstrap-data-tables/latest;
+compass install bootstrap-font-awesome/latest;
+compass install cordova-android/latest;
+compass install cordova-ios/latest;
+compass install data-tables/latest;
+compass install font-awesome/latest;
+compass install jqtouch/latest;
+compass install jquery/latest;
+compass install jquery-mobile/latest;
+compass install jquery-ui/latest;
+compass install jquery-validation/latest;
+compass install jquerypp/latest;
+compass install normalize-css/latest;
+compass install omg-text/latest;
+compass install prettify/latest;
+compass install skrollr/latest;
+compass install underscore-js/latest;
+compass install zclip/latest;
+compass install zepto/latest;
+compass install zero-clipboard/latest;
 
 TODO:
 ==================
--rename source-folder and zip-file in latest versions to extension-name-x.x.x
+-<strike>rename source-folder and zip-file in latest versions to extension-name-x.x.x</strike>
 -reorganize folder structure to defacto folder structure (extension-name.scss, extension-name/_extension-mobule-name.scss)
 
 Extensions to Add
