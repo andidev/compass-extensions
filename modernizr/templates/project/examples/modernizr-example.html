@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Modernizr Example</title>
+
+	<!-- jQuery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+	<!-- Modernizr -->
+	<script type="text/javascript" src="../javascripts/modernizr.js"></script>
+
+	<!-- Css -->
+	<style type="text/css">
+		section {
+			color: green;
+			height: 40px;
+			background-color: lightgreen;
+		}
+	</style>
+
+	<!-- Javascript -->
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('.html-class').html(
+				$('html').attr("class")
+			);
+			$('.modernizr-geolocation').html(
+				Modernizr.geolocation.toString()
+			);
+		});
+	</script>
+</head>
+<body>
+	<h2>Modernizr Example</h2>
+	<div>
+		<strong>html class</strong>="<span class="html-class"></span>"
+	</div>
+	<div>
+		<strong>Modernizr.geolocation</strong>=<span class="modernizr-geolocation"></span>
+	</div>
+	<section>
+		HTML5 tags like section, header, footer and aside can now be styled for browsers < Internet Explorer 9
+	</section>
+</body>
+</html>
