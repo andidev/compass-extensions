@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Javascript Debug Example</title>
+
+	<!-- Javascript Debug -->
+	<script type="text/javascript" src="../javascripts/javascript-debug.js"></script>
+
+	<!-- Javascript -->
+	<script type="text/javascript">
+		var a = 0,
+		b = 'two',
+		c = { foo: 1, bar: 2, baz: 'three' },
+		d = false,
+		e = [ 3, 4, 5, 6, 7, 8 ];
+
+		a++;
+		d = !d;
+
+		debug.group( 'start of group' );
+		debug.log( a );
+		debug.debug( b );
+		debug.info( c );
+		debug.warn( d );
+		debug.error( e );
+		debug.groupEnd();
+
+		debug.time( 'test' );
+
+		debug.log( a, b, c, d, e );
+		debug.log([ a, b, c, d, e ]);
+
+		(function() { debug.log( arguments ); })( a, b, c, d, e );
+
+		debug.timeEnd( 'test' );
+	</script>
+</head>
+<body>
+	<h2>Javascript Debug Example</h2>
+	<div>
+		Open the Console to display debug messages!
+	</div>
+</body>
+</html>
