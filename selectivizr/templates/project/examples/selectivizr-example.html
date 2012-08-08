@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Selectivizr Example</title>
+
+	<!-- NWMatcher -->
+	<script type="text/javascript" src="../javascripts/nwmatcher.js"></script>
+
+	<!-- Selectivizr -->
+	<!--[if (gte IE 6)&(lte IE 8)]>
+		<script type="text/javascript" src="../javascripts/selectivizr.js"></script>
+	<![endif]-->
+
+	<!-- Css -->
+	<style type="text/css">
+		div.first-child-test p:first-child {
+			color: green;
+			background-color: lightgreen;
+		}
+		div.last-child-test p:last-child {
+			color: green;
+			background-color: lightgreen;
+		}
+		div.first-of-type-test p:first-of-type {
+			color: green;
+			background-color: lightgreen;
+		}
+	</style>
+</head>
+<body>
+	<h2>Selectivizr Example<small>Note that Selectvizr do not work locally!</small></h2>
+
+	<h3>First Child Test</h3>
+	<div class="first-child-test">
+		<p>
+			first-child
+		</p>
+		<p>
+			second-child
+		</p>
+		<p>
+			last-child
+		</p>
+	</div>
+
+	<h3>Last Child Test</h3>
+	<div class="last-child-test">
+		<p>
+			first-child
+		</p>
+		<p>
+			second-child
+		</p>
+		<p>
+			last-child
+		</p>
+	</div>
+
+	<h3>First od Type Test</h3>
+	<div class="first-of-type-test">
+		<div>
+			first-child {div}
+		</div>
+		<p>
+			first-of-type {p}
+		</p>
+		<p>
+			second-of-type {p}
+		</p>
+		<p>
+			last-of-type {p}
+		</p>
+		<div>
+			last-child {div}
+		</div>
+	</div>
+</body>
+</html>
