@@ -1,6 +1,7 @@
 // Import extensions
 //@codekit-prepend "modernizr.js"
 //@codekit-prepend "javascript-debug.js"
+//@codekit-prepend "underscore.js"
 //@codekit-prepend "jquery.js"
 //@codekit-prepend "bootstrap.js"
 

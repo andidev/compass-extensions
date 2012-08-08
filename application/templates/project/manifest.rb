@@ -19,7 +19,7 @@ Compass Dependencies
 	Morednizr, Javascript Debug, jQuery, Bootstrap, Font Awesome
 
 Install With Dependencies
-	compass install modernizr; compass install javascript-debug; compass install jquery; compass install bootstrap;  compass install font-awesome;  compass install application;
+	compass install modernizr; compass install javascript-debug; compass install underscore-js; compass install jquery; compass install bootstrap;  compass install font-awesome;  compass install application;
 
 
 """
@@ -35,6 +35,6 @@ Compass Dependencies
 	Morednizr, Javascript Debug, jQuery, Morednizr, Bootstrap, Font Awesome
 
 Install Dependencies
-	compass install modernizr; compass install javascript-debug; compass install jquery; compass install bootstrap;  compass install font-awesome;
+	compass install modernizr; compass install javascript-debug; compass install underscore-js;	 compass install jquery; compass install bootstrap;  compass install font-awesome;
 
 """
