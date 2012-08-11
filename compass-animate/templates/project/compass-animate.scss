@@ -1,0 +1,45 @@
+// ---------------------------------------------------------------------------
+// Animations from Animate.css
+// Author : Dan Eden
+// URL    : http://daneden.me/animate/
+// ---------------------------------------------------------------------------
+// imports
+
+@import "compass/css3/animation";
+@import "compass/css3/transform";
+@import "compass/css3/opacity";
+
+@import "compass-animate/helpers";
+
+@import "compass-animate/attention";
+@import "compass-animate/bounce";
+@import "compass-animate/fade";
+@import "compass-animate/flip";
+@import "compass-animate/lightSpeed";
+@import "compass-animate/roll";
+@import "compass-animate/rotate";
+@import "compass-animate/special";
+
+// ---------------------------------------------------------------------------
+// animate [ attention | bounce | fade | flip |
+//           lightSpeed | rotate | special | all ]
+
+@mixin animate($sub: all, $class: $default-animation-class-mode) {
+  $sub        : compact($sub);
+  $attention  : yepnope($sub, all attention);
+  $bounce     : yepnope($sub, all bounce);
+  $fade       : yepnope($sub, all fade);
+  $flip       : yepnope($sub, all flip);
+  $lightSpeed : yepnope($sub, all lightSpeed);
+  $rotate     : yepnope($sub, all rotate);
+  $special    : yepnope($sub, all special);
+  @if $attention  { @include animate-attention  (all, $class); }
+  @if $bounce     { @include animate-bounce     (all, $class); }
+  @if $fade       { @include animate-fade       (all, $class); }
+  @if $flip       { @include animate-flip       (all, $class); }
+  @if $lightSpeed { @include animate-lightSpeed (all, $class); }
+  @if $rotate     { @include animate-rotate     (all, $class); }
+  @if $special    { @include animate-special    (all, $class); }
+}
+
+@include animate();

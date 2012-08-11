@@ -1,0 +1,13 @@
+// ---------------------------------------------------------------------------
+// imports
+
+@import "special/hinge";
+
+// ---------------------------------------------------------------------------
+// special [ hinge | all ]
+
+@mixin animate-special($sub: all, $class: $default-animation-class-mode) {
+  $sub      : compact($sub);
+  $hinge    : yepnope($sub, all hinge);
+  @if $hinge    { @include animate-hinge($class); } 
+}
