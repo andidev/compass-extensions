@@ -16,10 +16,10 @@ Documetation
 	http://net.tutsplus.com/tutorials/javascript-ajax/how-to-test-your-javascript-code-with-qunit/?search_index=4
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install qunit;
+	compass install qunit;
 
 """
 
@@ -32,9 +32,9 @@ Documetation
 	http://net.tutsplus.com/tutorials/javascript-ajax/how-to-test-your-javascript-code-with-qunit/?search_index=4
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

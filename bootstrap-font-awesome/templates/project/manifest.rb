@@ -15,10 +15,10 @@ Documetation
 	n/a
 
 Compass Dependencies
-jQuery, Bootstrap, Font Awesome
+	jQuery, Bootstrap, Font Awesome
 
 Install With Dependencies
-compass install jquery; compass install bootstrap; compass install font-awesome; compass install bootstrap-font-awesome;
+	compass install jquery; compass install bootstrap; compass install font-awesome; compass install bootstrap-font-awesome;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	n/a
 
 Compass Dependencies
-jQuery, Bootstrap, Font Awesome
+	jQuery, Bootstrap, Font Awesome
 
 Install Dependencies
-compass install jquery; compass install bootstrap; compass install font-awesome;
+	compass install jquery; compass install bootstrap; compass install font-awesome;
 
 """

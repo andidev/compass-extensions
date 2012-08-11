@@ -15,10 +15,10 @@ Documetation
 	http://google-code-prettify.googlecode.com/svn/trunk/README.html
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install prettify;
+	compass install prettify;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://google-code-prettify.googlecode.com/svn/trunk/README.html
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

@@ -16,10 +16,10 @@ Documetation
 	http://jaredhardy.com/omg-text/
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install omg-text;
+	compass install omg-text;
 
 """
 
@@ -31,9 +31,9 @@ Documetation
 	http://jaredhardy.com/omg-text/
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

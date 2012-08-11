@@ -15,10 +15,10 @@ Documetation
 	http://selectivizr.com/
 
 Compass Dependencies
-jQuery or Dojo or Prototype or YUI or DOMAssistant or MooTools or NWMatcher
+	jQuery or Dojo or Prototype or YUI or DOMAssistant or MooTools or NWMatcher
 
 Install With Dependencies
-compass install jquery; compass install selectivizr;
+	compass install jquery; compass install selectivizr;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://selectivizr.com/
 
 Compass Dependencies
-jQuery or Dojo or Prototype or YUI or DOMAssistant or MooTools or NWMatcher
+	jQuery or Dojo or Prototype or YUI or DOMAssistant or MooTools or NWMatcher
 
 Install Dependencies
-compass install jquery; compass
+	compass install jquery; compass
 
 """

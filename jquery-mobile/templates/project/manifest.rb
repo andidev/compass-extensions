@@ -15,10 +15,10 @@ Documetation
 	http://jquerymobile.com/demos/1.1.1/
 
 Compass Dependencies
-jQuery
+	jQuery
 
 Install With Dependencies
-compass install jquery; compass install jquery-mobile;
+	compass install jquery; compass install jquery-mobile;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://jquerymobile.com/demos/1.1.1/
 
 Compass Dependencies
-jQuery
+	jQuery
 
 Install Dependencies
-compass install jquery;
+	compass install jquery;
 
 """

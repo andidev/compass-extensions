@@ -15,10 +15,10 @@ Documetation
 	http://docs.phonegap.com/en/2.0.0/guide_getting-started_ios_index.md.html#Getting%20Started%20with%20iOS
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install cordova-ios;
+	compass install cordova-ios;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://docs.phonegap.com/en/2.0.0/guide_getting-started_ios_index.md.html#Getting%20Started%20with%20iOS
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

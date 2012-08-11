@@ -15,10 +15,10 @@ Documetation
 	http://www.steamdev.com/zclip/#usage
 
 Compass Dependencies
-jQuery
+	jQuery
 
 Install With Dependencies
-compass install jquery; compass install zero-clipboard; compass install zclip;
+	compass install jquery; compass install zero-clipboard; compass install zclip;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://www.steamdev.com/zclip/#usage
 
 Compass Dependencies
-jQuery
+	jQuery
 
 Install Dependencies
-compass install jquery; compass install zero-clipboard;
+	compass install jquery; compass install zero-clipboard;
 
 """

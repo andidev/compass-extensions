@@ -15,10 +15,10 @@ Documetation
 	http://twitter.github.com/bootstrap/
 
 Compass Dependencies
-jQuery
+	jQuery
 
 Install With Dependencies
-compass install jquery; compass install bootstrap;
+	compass install jquery; compass install bootstrap;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://twitter.github.com/bootstrap/
 
 Compass Dependencies
-jQuery
+	jQuery
 
 Install Dependencies
-compass install jquery;
+	compass install jquery;
 
 """

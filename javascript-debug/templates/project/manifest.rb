@@ -15,10 +15,10 @@ Documetation
 	http://benalman.com/code/projects/javascript-debug/docs/files/ba-debug-js.html
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install javascript-debug;
+	compass install javascript-debug;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://benalman.com/code/projects/javascript-debug/docs/files/ba-debug-js.html
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

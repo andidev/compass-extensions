@@ -15,10 +15,10 @@ Documetation
 	http://datatables.net/blog/Twitter_Bootstrap_2
 
 Compass Dependencies
-jQuery, Bootstrap, Data Tables
+	jQuery, Bootstrap, Data Tables
 
 Install With Dependencies
-compass install jquery; compass install bootstrap; compass install data-tables; compass install bootstrap-data-tables;
+	compass install jquery; compass install bootstrap; compass install data-tables; compass install bootstrap-data-tables;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://datatables.net/blog/Twitter_Bootstrap_2
 
 Compass Dependencies
-jQuery, Data Tables
+	jQuery, Data Tables
 
 Install Dependencies
-compass install jquery; compass install bootstrap; compass install data-tables;
+	compass install jquery; compass install bootstrap; compass install data-tables;
 
 """

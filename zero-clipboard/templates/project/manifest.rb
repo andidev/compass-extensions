@@ -15,10 +15,10 @@ Documetation
 	https://github.com/jonrohan/ZeroClipboard/blob/master/docs/instructions.md
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install zero-clipboard;
+	compass install zero-clipboard;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	https://github.com/jonrohan/ZeroClipboard/blob/master/docs/instructions.md
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

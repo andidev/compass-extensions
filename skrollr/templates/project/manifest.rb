@@ -15,10 +15,10 @@ Documetation
 	https://github.com/Prinzhorn/skrollr#documentation
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install skrollr;
+	compass install skrollr;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	https://github.com/Prinzhorn/skrollr#documentation
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

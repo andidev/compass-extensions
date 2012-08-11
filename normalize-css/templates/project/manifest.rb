@@ -15,10 +15,10 @@ Documetation
 	https://github.com/necolas/normalize.css
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install normalize-css;
+	compass install normalize-css;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	https://github.com/necolas/normalize.css
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

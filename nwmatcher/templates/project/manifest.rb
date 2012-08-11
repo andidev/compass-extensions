@@ -15,10 +15,10 @@ Documetation
 	http://javascript.nwbox.com/NWMatcher/
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install nwmatcher;
+	compass install nwmatcher;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://javascript.nwbox.com/NWMatcher/
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

@@ -15,10 +15,10 @@ Documetation
 	http://docs.jquery.com/Plugins/Validation
 
 Compass Dependencies
-jQuery
+	jQuery
 
 Install With Dependencies
-compass install jquery; compass install jquery-validation;
+	compass install jquery; compass install jquery-validation;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://docs.jquery.com/Plugins/Validation
 
 Compass Dependencies
-jQuery
+	jQuery
 
 Install Dependencies
-compass install jquery;
+	compass install jquery;
 
 """

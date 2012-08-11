@@ -18,10 +18,10 @@ Documetation
 	https://github.com/FortAwesome/Font-Awesome
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install font-awesome;
+	compass install font-awesome;
 
 """
 
@@ -33,9 +33,9 @@ Documetation
 	https://github.com/FortAwesome/Font-Awesome
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

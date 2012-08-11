@@ -15,10 +15,10 @@ Documetation
 	http://zeptojs.com/#core
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install zepto;
+	compass install zepto;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://zeptojs.com/#core
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

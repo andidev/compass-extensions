@@ -15,10 +15,10 @@ Documetation
 	http://api.jquery.com/category/selectors/
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install jquery/1.7.2;
+	compass install jquery/1.7.2;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://api.jquery.com/category/selectors/
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

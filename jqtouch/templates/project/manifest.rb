@@ -15,10 +15,10 @@ Documetation
 	http://www.jqtouch.com/preview/demos/main/#home
 
 Compass Dependencies
-Zepto or jQuery
+	Zepto or jQuery
 
 Install With Dependencies
-compass install zepto; compass install jqtouch;
+	compass install zepto; compass install jqtouch;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://www.jqtouch.com/preview/demos/main/#home
 
 Compass Dependencies
-Zepto or jQuery
+	Zepto or jQuery
 
 Install Dependencies
-compass install zepto;
+	compass install zepto;
 
 """

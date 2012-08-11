@@ -15,10 +15,10 @@ Documetation
 	http://jquerypp.com/
 
 Compass Dependencies
-jQuery
+	jQuery
 
 Install With Dependencies
-compass install jquery; compass install jquerypp;
+	compass install jquery; compass install jquerypp;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://jquerypp.com/
 
 Compass Dependencies
-jQuery
+	jQuery
 
 Install Dependencies
-compass install jquery;
+	compass install jquery;
 
 """

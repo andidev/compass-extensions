@@ -15,10 +15,10 @@ Documetation
 	http://modernizr.com/docs/
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install modernizr;
+	compass install modernizr;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://modernizr.com/docs/
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

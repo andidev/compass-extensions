@@ -16,10 +16,10 @@ Documetation
 	https://github.com/adamstac/animate.sass#usage
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install animate-sass;
+	compass install animate-sass;
 
 """
 
@@ -31,9 +31,9 @@ Documetation
 	https://github.com/adamstac/animate.sass#usage
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

@@ -16,10 +16,10 @@ Documetation
 	https://github.com/ericam/compass-animate#usage
 
 Compass Dependencies
-Compass >= 0.13
+	Compass >= 0.13
 
 Install With Dependencies
-compass install compass-animate;
+	compass install compass-animate;
 
 """
 
@@ -31,9 +31,9 @@ Documetation
 	https://github.com/ericam/compass-animate#usage
 
 Compass Dependencies
-Compass >= 0.13
+	Compass >= 0.13
 
 Install Dependencies
-n/a
+	n/a
 
 """

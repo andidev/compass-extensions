@@ -16,10 +16,10 @@ Documetation
 	http://daneden.me/animate/
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install animate-css;
+	compass install animate-css;
 
 """
 
@@ -31,9 +31,9 @@ Documetation
 	http://daneden.me/animate/
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

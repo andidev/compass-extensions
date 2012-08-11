@@ -15,10 +15,10 @@ Documetation
 	http://datatables.net/usage
 
 Compass Dependencies
-jQuery
+	jQuery
 
 Install With Dependencies
-compass install jquery; compass install data-tables;
+	compass install jquery; compass install data-tables;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://datatables.net/usage
 
 Compass Dependencies
-jQuery
+	jQuery
 
 Install Dependencies
-compass install jquery;
+	compass install jquery;
 
 """

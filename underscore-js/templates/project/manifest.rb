@@ -15,10 +15,10 @@ Documetation
 	http://underscorejs.org/
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install underscore-js;
+	compass install underscore-js;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://underscorejs.org/
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """

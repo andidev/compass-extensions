@@ -15,10 +15,10 @@ Documetation
 	http://code.google.com/p/html5shiv/
 
 Compass Dependencies
-none
+	none
 
 Install With Dependencies
-compass install html5shiv;
+	compass install html5shiv;
 
 """
 
@@ -30,9 +30,9 @@ Documetation
 	http://code.google.com/p/html5shiv/
 
 Compass Dependencies
-none
+	none
 
 Install Dependencies
-n/a
+	n/a
 
 """
