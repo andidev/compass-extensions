@@ -1,4 +1,4 @@
-description "Javascript Debug 0.4 (latest)"
+description "JavaScript Debug 0.4 (latest)"
 
 discover :stylesheets
 discover :images
