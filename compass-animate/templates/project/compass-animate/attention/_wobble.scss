@@ -1,4 +1,9 @@
 // ---------------------------------------------------------------------------
+// imports
+@import "compass/css3/animation";
+@import "compass/css3/transform";
+
+// ---------------------------------------------------------------------------
 // wobble
 
 @mixin animate-wobble($class: $default-animation-class-mode) {

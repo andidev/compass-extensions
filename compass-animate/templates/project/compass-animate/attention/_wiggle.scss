@@ -1,4 +1,8 @@
 // ---------------------------------------------------------------------------
+// imports
+@import "compass/css3/animation";
+
+// ---------------------------------------------------------------------------
 // wiggle
 
 @mixin animate-wiggle($class: $default-animation-class-mode) {

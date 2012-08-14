@@ -1,4 +1,9 @@
 // ---------------------------------------------------------------------------
+// imports
+@import "compass/css3/animation";
+@import "compass/css3/transform";
+
+// ---------------------------------------------------------------------------
 // shake
 
 @mixin animate-shake($class: $default-animation-class-mode) {
