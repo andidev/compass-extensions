@@ -9,7 +9,7 @@ discover :files
 
 help """
 Source
-	https://github.com/jlong/sass-twitter-bootstrap
+	https://github.com/twitter/bootstrap/tags
 
 Documetation
 	http://twitter.github.com/bootstrap/
@@ -24,7 +24,7 @@ Install With Dependencies
 
 welcome_message """
 Source
-	https://github.com/jlong/sass-twitter-bootstrap
+	https://github.com/twitter/bootstrap/tags
 
 Documetation
 	http://twitter.github.com/bootstrap/
