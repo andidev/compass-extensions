@@ -1,4 +1,4 @@
-description "jQuery Validation 1.9.0 (latest)"
+description "jQuery Validation 1.10.0 (latest)"
 
 discover :stylesheets
 discover :images
@@ -9,7 +9,7 @@ discover :files
 
 help """
 Source
-	http://bassistance.de/jquery-plugins/jquery-plugin-validation/
+	https://github.com/jzaefferer/jquery-validation/tags
 
 Documetation
 	http://docs.jquery.com/Plugins/Validation
@@ -24,7 +24,7 @@ Install With Dependencies
 
 welcome_message """
 Source
-	http://bassistance.de/jquery-plugins/jquery-plugin-validation/
+	https://github.com/jzaefferer/jquery-validation/tags
 
 Documetation
 	http://docs.jquery.com/Plugins/Validation
