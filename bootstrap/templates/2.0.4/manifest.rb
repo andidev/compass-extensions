@@ -1,4 +1,4 @@
-description "bootstrap 2.0.4"
+description "Bootstrap 2.0.4"
 
 discover :stylesheets
 discover :images
